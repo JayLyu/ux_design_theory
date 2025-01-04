@@ -1,4 +1,4 @@
-> [!summary] HEART 模型是 Google 提出的一个用户体验评估框架，用于系统性地衡量产品的用户体验质量。
+> HEART 模型是 Google 提出的一个用户体验评估框架，用于系统性地衡量产品的用户体验质量。
 > HEART 代表五个核心指标：**H**appiness（幸福感）、**E**ngagement（参与度）、**A**doption（采纳率）、**R**etention（留存率）、**T**ask Success（任务成功率）。这个模型帮助设计师和产品团队从多个维度评估和优化用户体验。
 
 ## 理论基础

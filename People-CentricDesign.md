@@ -1,8 +1,3 @@
----
-aliases:
-  - 以人为中心的设计
----
-
 # 以人为中心的设计 (People-Centric Design)
 
 > People-centered design is a design philosophy and methodology that places human needs, capabilities, and behaviors at the center of the design process. It involves understanding users through research, empathy, and continuous feedback to create solutions that truly serve people's needs while considering their context, limitations, and aspirations.

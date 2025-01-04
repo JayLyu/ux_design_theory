@@ -1,4 +1,4 @@
-> [!summary] AARRR 模型（海盗指标模型）是一个以用户体验为核心的增长框架，由 Dave McClure 提出。它通过五个关键阶段来优化用户旅程：**A**cquisition（获取）、**A**ctivation（激活）、**R**etention（留存）、**R**evenue（收入）和**R**eferral（推荐）。这个模型特别适合 UI/UX 设计师用来评估和改进用户体验的各个环节。
+> AARRR 模型（海盗指标模型）是一个以用户体验为核心的增长框架，由 Dave McClure 提出。它通过五个关键阶段来优化用户旅程：**A**cquisition（获取）、**A**ctivation（激活）、**R**etention（留存）、**R**evenue（收入）和**R**eferral（推荐）。这个模型特别适合 UI/UX 设计师用来评估和改进用户体验的各个环节。
 
 **用户研究方法与认知理论基础：**
 

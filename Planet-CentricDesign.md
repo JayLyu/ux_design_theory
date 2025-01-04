@@ -8,8 +8,6 @@ Planet Centric Design 是一种设计产品和服务的方法论，其核心目�
 
 ## 核心原则
 
-![[Planet_Centric_Principles.png]]
-
 ### 1. 负责任（Responsible）
 - 对设计决策负责
 - 评估环境影响
@@ -63,7 +61,3 @@ Planet Centric Design 是一种设计产品和服务的方法论，其核心目�
 - 设计促进环保行为的触发点
 - 建立可持续行为激励机制
 - 创造积极的环保体验
-
-## 设计工具包
-
-![[Planet Centric Design toolkit.pdf]]
