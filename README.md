@@ -1,78 +1,83 @@
-## 实践类体验理论体验
+## 体验设计理论
 
-1. 设计流程&方法
-	1. [Double Diamon dModel](Theory/DoubleDiamondModel.md)
-	1. [斯坦福设计思维](Theory/斯坦福设计思维.md)
-	1. [精益用户体验](Theory/精益用户体验.md)
-	1. [User-Centered Design](Theory/User-CenteredDesign.md)
-		1. [People-Centric Design](Theory/People-CentricDesign.md)
-		1. [Planet-Centric Design](Theory/Planet-CentricDesign.md)
-	1. [5W1H 模型](Theory/5W1H模型.md)
-	1. [SWOT 分析法](Theory/SWOT分析法.md)
-2. [用户调研方法](Theory/用户调研方法.md)
-	1. [定性分析](Theory/定性分析.md)
-	1. [定量分析](Theory/定量分析.md)
-	1. [用户访谈](Theory/用户访谈.md)
-	1. [田野调查](Theory/田野调查.md)
-	1. [问卷调查](Theory/问卷调查.md)
-	1. [用户画像](Theory/用户画像.md)
-	1. [眼动追踪](Theory/眼动追踪.md)
-	1. [A/B 测试](Theory/A/B测试.md)
-	1. [焦点小组](Theory/焦点小组.md)
-	1. [可用性测试](Theory/可用性测试.md)
-	1. [参与式设计](Theory/参与式设计.md)
-3. [体验分析工具](Theory/体验分析工具.md)
-	1. [GSM 模型](Theory/GSM模型.md)
-	1. [PULSE 模型](Theory/PULSE模型.md)
-	1. [HEART 模型](Theory/HEART模型.md)
-	1. [AARRR 模型](Theory/AARRR模型.md)
-	1. [AIDA 模型](Theory/AIDA模型.md)
-	1. [八角行为分析](Theory/八角行为分析.md)
-	1. [AIDMA 模型](Theory/AIDMA模型.md)
-	1. [CUBI 模型](Theory/CUBI模型.md)
-	1. [KANO 模型](Theory/KANO模型.md)
-	1. [用户移情图](Theory/用户移情图.md)
-	1. [用户体验地图](Theory/用户体验地图.md)
+1. **设计思维与方法**
+   - [Double Diamond Model](Theory/DoubleDiamondModel.md)：强调设计过程中的发散和聚焦阶段。
+   - [斯坦福设计思维](Theory/斯坦福设计思维.md)：以人为本的创新方法论，解决复杂设计问题。
+   - [精益用户体验](Theory/精益用户体验.md)：通过快速迭代和验证优化用户体验。
+   - [User-Centered Design](Theory/User-CenteredDesign.md)：在设计过程中始终关注用户需求。
+     - [People-Centric Design](Theory/People-CentricDesign.md)：关注特定人群的需求和体验。
+     - [Planet-Centric Design](Theory/Planet-CentricDesign.md)：设计产品和服务时考虑对地球的影响。
 
-## 认知型体验理论
+2. **用户研究与分析**
+   - [用户调研方法](Theory/用户调研方法.md)：系统化收集和分析用户数据。
+     - [定性分析](Theory/定性分析.md)：通过非数值数据理解用户行为和动机。
+     - [定量分析](Theory/定量分析.md)：通过数值数据评估用户行为和趋势。
+     - [用户访谈](Theory/用户访谈.md)：通过直接对话获取用户洞察。
+     - [田野调查](Theory/田野调查.md)：在自然环境中观察用户行为。
+     - [问卷调查](Theory/问卷调查.md)：通过问卷收集用户反馈。
+     - [用户画像](Theory/用户画像.md)：创建虚构人物代表用户群体。
+     - [眼动追踪](Theory/眼动追踪.md)：分析用户视觉关注点。
+     - [A/B 测试](Theory/A/B测试.md)：比较两个版本的效果。
+     - [焦点小组](Theory/焦点小组.md)：通过小组讨论获取用户反馈。
+     - [可用性测试](Theory/可用性测试.md)：评估产品的易用性。
+     - [参与式设计](Theory/参与式设计.md)：用户参与设计过程。
 
-1. 用户体验理论
-	1. [用户体验五要素](Theory/用户体验五要素.md)
-	2. [马斯洛需求层次理论](Theory/马斯洛需求层次理论.md)
-2. 认知行为理论
-	1. [福格行为模型](Theory/福格行为模型.md)
-	2. [上瘾模型](Theory/上瘾模型.md)
-	3. [心流体验模型](Theory/心流体验模型.md)
-	4. [五大圈层模型](Theory/五大圈层模型.md)
-	5. [峰终法则](Theory/峰终法则.md)
-3. 交互操作理论
-	1. [状态可见原则](Theory/状态可见原则.md)
-	2. [环境贴切原则](Theory/环境贴切原则.md)
-	3. [用户可控原则](Theory/用户可控原则.md)
-	4. [一致性原则](Theory/一致性原则.md)
-	5. [防错原则](Theory/防错原则.md)
-	6. [易取原则](Theory/易取原则.md)
-	7. [灵活高效原则](Theory/灵活高效原则.md)
-	8. [优美且简约原则](Theory/优美且简约原则.md)
-	9. [容错原则](Theory/容错原则.md)
-	10. [人性化帮助原则](Theory/人性化帮助原则.md)
-	11. [多尔蒂门槛](Theory/多尔蒂门槛.md)
-	12. [菲茨定律](Theory/菲茨定律.md)
-	13. [席克定律](Theory/席克定律.md)
-	14. [米勒定律](Theory/米勒定律.md)
-	15. [蔡格尼克记忆效应](Theory/蔡格尼克记忆效应.md)
-	16. [伯斯塔尔法则](Theory/伯斯塔尔法则.md)
-	17. [系列位置效应](Theory/系列位置效应.md)
-	18. [冯·雷斯托夫效应](Theory/冯·雷斯托夫效应.md)
-	19. [奥卡姆剃刀](Theory/奥卡姆剃刀.md)
-	20. [MAYA 法则](Theory/MAYA法则.md)
-	21. [特斯勒定律](Theory/特斯勒定律.md)
-	22. [帕金森原则](Theory/帕金森原则.md)
-	23. [古腾堡原则](Theory/古腾堡原则.md)
-4. 视觉观察理论
-	1. [格式塔原理](Theory/格式塔原理.md)
-	2. [平面设计四要素](Theory/平面设计四要素.md)
-	3. [原子设计理论](Theory/原子设计理论.md)
-	4. [黄金分割理论](Theory/黄金分割理论.md)
-	5. [三分定律](Theory/三分定律.md)
-	6. [图片优势效应](Theory/图片优势效应.md)
+3. **体验优化工具**
+   - [体验分析工具](Theory/体验分析工具.md)：分析和优化用户体验的工具。
+     - [GSM 模型](Theory/GSM模型.md)：通过目标、策略和指标优化体验。
+     - [PULSE 模型](Theory/PULSE模型.md)：通过循环优化用户体验。
+     - [HEART 模型](Theory/HEART模型.md)：衡量用户体验的五个维度。
+     - [AARRR 模型](Theory/AARRR模型.md)：用户获取和留存的分析框架。
+     - [AIDA 模型](Theory/AIDA模型.md)：描述用户购买决策过程。
+     - [八角行为分析](Theory/八角行为分析.md)：分析用户行为动机的模型。
+     - [AIDMA 模型](Theory/AIDMA模型.md)：广告效果分析模型。
+     - [CUBI 模型](Theory/CUBI模型.md)：用户体验的四个关键要素。
+     - [KANO 模型](Theory/KANO模型.md)：分析用户需求的优先级。
+     - [用户移情图](Theory/用户移情图.md)：理解用户情感和动机的工具。
+     - [用户体验地图](Theory/用户体验地图.md)：可视化用户体验的工具。
+
+4. **认知与行为理论**
+   - [用户体验理论](Theory/用户体验理论.md)：用户体验设计的五个层次。
+     - [用户体验五要素](Theory/用户体验五要素.md)：用户体验设计的五个层次。
+     - [马斯洛需求层次理论](Theory/马斯洛需求层次理论.md)：描述人类需求的层次结构。
+   - [认知行为理论](Theory/认知行为理论.md)：研究人类认知过程和行为模式。
+     - [福格行为模型](Theory/福格行为模型.md)：行为发生的三要素模型。
+     - [上瘾模型](Theory/上瘾模型.md)：分析用户上瘾行为的模型。
+     - [心流体验模型](Theory/心流体验模型.md)：描述最佳体验状态的模型。
+     - [五大圈层模型](Theory/五大圈层模型.md)：分析用户行为的五个层次。
+     - [峰终法则](Theory/峰终法则.md)：记忆体验的高峰和结束。
+
+5. **交互设计原则**
+   - [交互操作理论](Theory/交互操作理论.md)：研究人机交互过程中的操作规律和设计原则。
+     - [状态可见原则](Theory/状态可见原则.md)：确保用户能看到系统状态。
+     - [环境贴切原则](Theory/环境贴切原则.md)：设计符合用户环境的界面。
+     - [用户可控原则](Theory/用户可控原则.md)：用户对系统操作的控制。
+     - [一致性原则](Theory/一致性原则.md)：保持界面和交互的一致性。
+     - [防错原则](Theory/防错原则.md)：设计防止用户犯错的界面。
+     - [易取原则](Theory/易取原则.md)：确保用户能轻松获取信息。
+     - [灵活高效原则](Theory/灵活高效原则.md)：支持用户高效完成任务。
+     - [优美且简约原则](Theory/优美且简约原则.md)：设计简约而不失美感。
+     - [容错原则](Theory/容错原则.md)：允许用户纠正错误。
+     - [人性化帮助原则](Theory/人性化帮助原则.md)：提供易于理解的帮助。
+     - [多尔蒂门槛](Theory/多尔蒂门槛.md)：响应时间不超过400毫秒。
+     - [菲茨定律](Theory/菲茨定律.md)：目标越大越近，越容易点击。
+     - [席克定律](Theory/席克定律.md)：选择项越多，决策时间越长。
+     - [米勒定律](Theory/米勒定律.md)：短期记忆容量为7±2项。
+     - [蔡格尼克记忆效应](Theory/蔡格尼克记忆效应.md)：未完成任务更易被记住。
+     - [伯斯塔尔法则](Theory/伯斯塔尔法则.md)：用户偏好简单的系统。
+     - [系列位置效应](Theory/系列位置效应.md)：首尾信息更易被记住。
+     - [冯·雷斯托夫效应](Theory/冯·雷斯托夫效应.md)：与众不同的信息更易被记住。
+     - [奥卡姆剃刀](Theory/奥卡姆剃刀.md)：简单的解释通常更好。
+     - [MAYA 法则](Theory/MAYA法则.md)：设计在熟悉与创新之间平衡。
+     - [特斯勒定律](Theory/特斯勒定律.md)：复杂性不可消除，只能转移。
+     - [帕金森原则](Theory/帕金森原则.md)：工作会占满可用时间。
+     - [古腾堡原则](Theory/古腾堡原则.md)：信息从左上到右下流动。
+
+6. **视觉设计理论**
+   - [视觉观察理论](Theory/视觉观察理论.md)：研究人类视觉感知和信息处理规律。
+     - [格式塔原理](Theory/格式塔原理.md)：人类倾向于将视觉元素组织成整体。
+     - [平面设计四要素](Theory/平面设计四要素.md)：点、线、面、体的设计基础。
+     - [原子设计理论](Theory/原子设计理论.md)：模块化设计的五个层次。
+     - [黄金分割理论](Theory/黄金分割理论.md)：比例为1:1.618的美学原则。
+     - [三分定律](Theory/三分定律.md)：构图时将画面分为九宫格。
+     - [图片优势效应](Theory/图片优势效应.md)：图像比文字更易被记住。
