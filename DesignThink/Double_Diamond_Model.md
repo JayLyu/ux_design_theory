@@ -6,6 +6,8 @@
 
 双钻石模型（Double Diamond Model）由英国设计委员会（Design Council）开发，是一个强大的设计思维框架，特别适合UI/UX设计流程。它通过两个连续的钻石形状来可视化设计过程中的发散和收敛思维模式。
 
+![Double Diamond Model](../images/Double_Diamond_Design.png)
+
 ## 理论基础
 
 ### 认知型体验理论

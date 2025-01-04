@@ -2,12 +2,12 @@
 
 ### 1. Design Thinking and Methods | 设计思维与方法
 
-- [Double Diamond Model｜双钻石模型](DesignThink/Double_Diamond_Model.md)：强调设计过程中的发散和聚焦阶段。
-- [Stanford Design Thinking｜斯坦福设计思维](DesignThink/斯坦福设计思维.md)：以人为本的创新方法论，解决复杂设计问题。
-- [Lean UX｜精益用户体验](DesignThink/精益用户体验.md)：通过快速迭代和验证优化用户体验。
-- [User-Centered Design｜以用户为中心的设计](DesignThink/User-Centered_Design.md)：在设计过程中始终关注用户需求。
-  - [People-Centric Design｜以人为中心的设计](DesignThink/People-Centric_Design.md)：关注特定人群的需求和体验。
-  - [Planet-Centric Design｜以地球为中心的设计](DesignThink/Planet-Centric_Design.md)：设计产品和服务时考虑对地球的影响。
+- [Double Diamond Model｜双钻石模型](./DesignThink/Double_Diamond_Model.md)：强调设计过程中的发散和聚焦阶段。
+- [Stanford Design Thinking｜斯坦福设计思维](./DesignThink/Stanford_Design_Thinking.md)：以人为本的创新方法论，解决复杂设计问题。
+- [Lean UX｜精益用户体验](./DesignThink/精益用户体验.md)：通过快速迭代和验证优化用户体验。
+- [User-Centered Design｜以用户为中心的设计](./DesignThink/User-Centered_Design.md)：在设计过程中始终关注用户需求。
+  - [People-Centric Design｜以人为中心的设计](./DesignThink/People-Centric_Design.md)：关注特定人群的需求和体验。
+  - [Planet-Centric Design｜以地球为中心的设计](./DesignThink/Planet-Centric_Design.md)：设计产品和服务时考虑对地球的影响。
 
 ### 2. User Research and Analysis | 用户研究与分析
 
